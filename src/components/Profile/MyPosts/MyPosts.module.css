@@ -1,0 +1,17 @@
+.postsBlock {
+    padding: 10px;
+}
+
+.postsBlock button, .postsBlock textarea {
+    display: block;
+} 
+
+.postsBlock textarea{
+    height: 40px;
+    width: 200px;
+}
+
+
+h1 {
+    padding: 10px;
+}

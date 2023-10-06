@@ -1,0 +1,14 @@
+.nav {
+    background-color: #928e85;
+    grid-area: n;
+    padding: 10px;
+}
+
+.item {
+    color: white;
+}
+
+.active {
+    color: chartreuse;
+}
+

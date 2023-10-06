@@ -1,0 +1,17 @@
+.dialog {
+    color: white;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    padding-bottom: 10px;
+}
+
+.active {
+    color: chartreuse;
+}
+
+.dialogImg {
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+}

@@ -1,0 +1,38 @@
+.dialogs {
+}
+
+.dialogItems {
+    padding: 10px;
+}
+
+.dialogsOutput {
+    display: grid;
+    grid-template-columns: 2fr 10fr;
+}
+
+.dialogsInput {
+    display: flex;
+    flex-direction: row;
+}
+
+.dialogsInput textarea {
+    width: 100%;
+    height: 50px;
+}
+
+.dialog {
+    color: white;
+    display: block;
+}
+
+.active {
+    color: chartreuse;
+}
+
+.messages {
+    padding: 10px;
+}
+
+/* .message {
+
+} */
