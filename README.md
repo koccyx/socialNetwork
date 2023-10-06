@@ -1,5 +1,6 @@
-# To start the project input:
+# Social Network
 
+To start the project input in terminal:
 ### `npm start`
 
 Runs the app in the development mode.\
